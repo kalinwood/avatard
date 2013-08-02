@@ -131,8 +131,7 @@ h2, .beta {
 }
 
 h3, .gamma {
-	font-family: georgia serif;
-	font-style: italic;
+	font-family: 'Merriweather', serif;
 	font-size: 20px;
 	font-size: 1rem;
 	font-weight: 700;
